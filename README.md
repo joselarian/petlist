@@ -1,8 +1,10 @@
 INSTRUCTIONS
+
 Download and rebuild ProgrammingChallenge solution
 Start ProgrammingChallenge project 
 
 SOLUTION
+
 It contains 5 projects
 1. ProgrammingChallenge
 2. ProgrammingChallenge_Data
@@ -12,5 +14,6 @@ It contains 5 projects
 
 
 UNIT TESTS
+
 Added 3 unit tests for PersonService
 
